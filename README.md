@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzuriaga&show_icons=true&locale=en&layout=compact" alt="uzuriaga" /></p>
 
-<img src="https://komarev.com/ghpvc/?uzuriaga=Tanu-N-Prabhu"/>
+
 
