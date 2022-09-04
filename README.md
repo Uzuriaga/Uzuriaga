@@ -37,4 +37,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzuriaga&show_icons=true&locale=en&layout=compact" alt="uzuriaga" /></p>
 
+<img src="https://komarev.com/ghpvc/?uzuriaga=Tanu-N-Prabhu"/>
 
