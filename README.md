@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzuriaga&show_icons=true&locale=en&layout=compact" alt="uzuriaga" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzuriaga&show_icons=true&locale=en&layout=compact" alt="uzuriag" /></p>
 
 
 
