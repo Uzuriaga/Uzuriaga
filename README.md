@@ -19,7 +19,7 @@
 
 
 ### I am Junior Uzuriaga
-- Programming student
+- Programming student 
 
 ### 🛠️ technologies that I am currently learning:
 
