@@ -1,14 +1,14 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" />
+
 <a href="https://www.linkedin.com/in/uzuriaga/">
-  <img align="left" alt="Junior Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Junior Linkdein" width="22px" src="src="https://cdn.simpleicons.org/linkedin/white" />
 </a>
 <a href="https://t.me/jruzu">
-  <img align="left" alt="Junior Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Junior Telegram" width="22px" src="src="https://cdn.simpleicons.org/telegram/white" />
 </a>
 <a href="mailto:uzuriagajunior@gmail.com">
-  <img align="left" alt="Junior Mailk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Junior Mailk" width="22px" src="src="https://cdn.simpleicons.org/gmail/white" />
 </a>
 
 <br />
