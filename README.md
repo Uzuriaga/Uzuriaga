@@ -2,13 +2,13 @@
 
 
 <a href="https://www.linkedin.com/in/uzuriaga/">
-  <img align="left" alt="Junior Linkdein" width="22px" src="src="https://cdn.simpleicons.org/linkedin/white" />
+  <img align="left" alt="Junior Linkdein" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />
 </a>
 <a href="https://t.me/jruzu">
-  <img align="left" alt="Junior Telegram" width="22px" src="src="https://cdn.simpleicons.org/telegram/white" />
+  <img align="left" alt="Junior Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/white" />
 </a>
 <a href="mailto:uzuriagajunior@gmail.com">
-  <img align="left" alt="Junior Mailk" width="22px" src="src="https://cdn.simpleicons.org/gmail/white" />
+  <img align="left" alt="Junior Mailk" width="22px" src="https://cdn.simpleicons.org/gmail/white" />
 </a>
 
 <br />
