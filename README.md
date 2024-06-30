@@ -11,7 +11,7 @@
   <img align="left" alt="Junior Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/jruzu">
-  <img align="left" alt="Junior Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Junior Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg/white" />
 </a>
 <a href="mailto:uzuriagajunior@gmail.com">
   <img align="left" alt="Junior Mailk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
