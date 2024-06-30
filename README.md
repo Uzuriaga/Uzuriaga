@@ -1,5 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<div color= "white">
 <a href="https://twitter.com/uzuriago">
   <img align="left" alt="Junior Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,6 +16,7 @@
 <a href="mailto:uzuriagajunior@gmail.com">
   <img align="left" alt="Junior Mailk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</div>
 <br />
 
 
