@@ -2,14 +2,19 @@
 
 
 <a href="https://www.linkedin.com/in/uzuriaga/">
-  <img align="left" alt="Junior Linkdein" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 <a href="https://t.me/jruzu">
-  <img align="left" alt="Junior Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/white" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </a>
 <a href="mailto:uzuriagajunior@gmail.com">
-  <img align="left" alt="Junior Mailk" width="22px" src="https://cdn.simpleicons.org/gmail/white" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
+
+
+
+###
+
 
 <br />
 
