@@ -29,9 +29,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/zl2frknxfg2plo0l8my848wqz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zl2frknxfg2plo0l8my848wqz&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<div align="">
   <img src="https://profile-counter.glitch.me/uzuriaga/count.svg?"  />
 </div>
 
-###
