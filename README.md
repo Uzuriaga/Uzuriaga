@@ -41,11 +41,7 @@
 
 ###
 
-<div align="">
-  <a href="https://open.spotify.com/user/uzuriaga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=uzuriaga=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 <div align="">
   <img src="https://profile-counter.glitch.me/uzuriaga/count.svg?"  />
